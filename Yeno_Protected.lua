@@ -1,5 +1,3 @@
-script_key = getgenv().Yeno.Settings.Whitelist_Key
-
 ([[
                 This script has been licensed using Luarmor
                   Luarmor v3.8, Lua whitelisting system
