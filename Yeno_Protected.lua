@@ -1,4 +1,4 @@
-local script_key = getgenv().Yeno.Settings.Whitelist_Key
+script_key = getgenv().Yeno.Settings.Whitelist_Key
 
 ([[
                 This script has been licensed using Luarmor
